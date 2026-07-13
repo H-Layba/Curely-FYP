@@ -27,7 +27,27 @@ Curely is a Flutter app for chronic disease patients to manage their condition d
 
 ## Demo
 
+<div align="center">
+
 https://github.com/user-attachments/assets/dc84dc96-c0f5-46a4-bf32-17b28e16fea3
+
+</div>
+
+---
+
+## What it does
+
+- **Daily vitals tracking** — log blood pressure, glucose, temperature, water intake, and sleep once a day, with duplicate-entry checks so the same day can't be logged twice
+- **Dashboard** — vitals and trends charted over time at a glance
+- **Report scanning (OCR)** — upload a photo of a lab report or prescription; Gemini-powered OCR on the backend extracts the data into structured text instead of the patient re-typing it
+- **AI chatbot** — Groq-powered assistant for quick patient questions
+- **AI diet assistant** — Groq-powered, personalized diet guidance
+- **Medication reminders** — local notifications for scheduled doses
+- **Daily entry reminders** — a nudge if today's vitals haven't been logged yet
+- **PDF reports** — generate and share a clean health summary
+- **Emergency info** — critical patient details reachable in one tap
+- **Profile & onboarding** — guided first-time setup and profile management
+- **Auth** — email/Google sign-in via Firebase Auth
 
 ---
 
@@ -48,28 +68,21 @@ https://github.com/user-attachments/assets/dc84dc96-c0f5-46a4-bf32-17b28e16fea3
     <td><img src="https://github.com/user-attachments/assets/35dc2f7a-bebb-4eed-b1dc-5a08b732e431" width="200"/></td>
     <td><img src="https://github.com/user-attachments/assets/8c8d5ce8-cfa3-48e9-b3f0-04954082afbe" width="200"/></td>
   </tr>
+  <tr>
+    <td align="center" width="25%"><b>Report Scan (OCR)</b></td>
+    <td align="center" width="25%"><b>Medication Reminder</b></td>
+    <td align="center" width="25%"><b>Emergency Info</b></td>
+    <td align="center" width="25%"><b>Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/53c114a7-56e2-4613-a5bd-c929ca499c87" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a1a87d84-4ef5-4854-adf6-eafc4bfaa311" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e306ab9f-e177-4c5a-8ab5-33fa31b85599" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ab54f9fe-c764-4da3-9ed3-234072551bb6" width="200"/></td>
+  </tr>
 </table>
 
-<b>Report Scan (OCR)</b><br/>
-<img src="https://github.com/user-attachments/assets/53c114a7-56e2-4613-a5bd-c929ca499c87" width="200"/>
-
 </div>
-
----
-
-## What it does
-
-- **Daily vitals tracking** — log blood pressure, glucose, temperature, water intake, and sleep once a day, with duplicate-entry checks so the same day can't be logged twice
-- **Dashboard** — vitals and trends charted over time at a glance
-- **Report scanning (OCR)** — upload a photo of a lab report or prescription; Gemini-powered OCR on the backend extracts the data into structured text instead of the patient re-typing it
-- **AI chatbot** — Groq-powered assistant for quick patient questions
-- **AI diet assistant** — Groq-powered, personalized diet guidance
-- **Medication reminders** — local notifications for scheduled doses
-- **Daily entry reminders** — a nudge if today's vitals haven't been logged yet
-- **PDF reports** — generate and share a clean health summary
-- **Emergency info** — critical patient details reachable in one tap
-- **Profile & onboarding** — guided first-time setup and profile management
-- **Auth** — email/Google sign-in via Firebase Auth
 
 ---
 
