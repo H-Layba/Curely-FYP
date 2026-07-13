@@ -15,7 +15,7 @@ Daily vitals tracking, medication reminders, and AI-assisted health management �
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-[**Download APK**](#) &nbsp;•&nbsp; [**Try the web build**](#)
+[**Download APK**](https://drive.google.com/file/d/1-d5IsHUvj4rwKUyadUGYYHUkbEx7E6tc/view?usp=drive_link) &nbsp;•&nbsp; 
 
 </div>
 
@@ -151,6 +151,8 @@ lib/
 
 ---
 
-## License
+## Contributors
 
-Built as a university Final Year Project.
+- [Layba Huda](https://github.com/H-Layba)
+- [Sobia Karim](https://github.com/sobiakarim)
+- Khush Bakht Anwar
