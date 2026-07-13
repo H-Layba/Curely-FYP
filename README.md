@@ -1,4 +1,4 @@
-<div align="center">
+<img width="714" height="1599" alt="chatbot" src="https://github.com/user-attachments/assets/d69346f5-4237-432a-9370-ca0cea7fe42b" /><div align="center">
 
 <img src="assets/logo/logo.png" alt="Curely logo" width="120"/>
 
@@ -27,9 +27,8 @@ Curely is a Flutter app for chronic disease patients to manage their condition d
 
 ## Demo
 
-![Curely walkthrough](docs/screenshots/demo.gif)
+https://github.com/user-attachments/assets/dc84dc96-c0f5-46a4-bf32-17b28e16fea3
 
-*Log vitals → see them on the dashboard → get reminded when it's time for the next dose.*
 
 ---
 
@@ -37,11 +36,16 @@ Curely is a Flutter app for chronic disease patients to manage their condition d
 
 | Dashboard | Daily Vitals Entry |
 |:---:|:---:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Daily Entry](docs/screenshots/daily_entry.png) |
+| ![Dashboard](docs/screenshots/dashboard.png<img width="714" height="1599" alt="db" src="https://github.com/user-attachments/assets/4896bdcf-d8e4-4251-938c-0763bb0c51fc" />
+<img width="714" height="1599" alt="db_graph" src="https://github.com/user-attachments/assets/a0152c09-57e7-433c-a71d-e1f833e7fa3c" />
+) | ![Daily Entry](docs/screenshots/daily_entry.png) |<img width="714" height="1599" alt="log_entry" src="https://github.com/user-attachments/assets/35dc2f7a-bebb-4eed-b1dc-5a08b732e431" />
+
 
 | AI Chatbot | Report Scan (OCR) |
 |:---:|:---:|
-| ![Chatbot](docs/screenshots/chatbot.png) | ![Report Scan](docs/screenshots/report_scan.png) |
+| ![Chatbot](docs/screenshots/chatbot.png)<img width="714" height="1599" alt="chatbot" src="https://github.com/user-attachments/assets/8c8d5ce8-cfa3-48e9-b3f0-04954082afbe" />
+ | ![Report Scan](docs/screenshots/report_scan.png)|
+<img width="714" height="1599" alt="reports2" src="https://github.com/user-attachments/assets/53c114a7-56e2-4613-a5bd-c929ca499c87" />
 
 ---
 
