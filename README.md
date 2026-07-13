@@ -1,5 +1,14 @@
 # Curely
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
 Curely is a Flutter app for chronic disease patients to manage their condition day to day — daily vitals tracking, medication reminders, AI-assisted diet guidance, a chatbot for quick questions, and automatic extraction of data from scanned medical reports.
 
 ## What it does
@@ -18,13 +27,7 @@ Curely is a Flutter app for chronic disease patients to manage their condition d
 
 ## Built with
 
-- **Flutter** — Android, iOS, Web, Windows, macOS, Linux from one codebase
-- **Firebase** — Auth, Firestore, Storage
-- **Node.js/Express backend** — Gemini-based OCR extraction and signed Cloudinary deletes
-- **Groq API** — powers the chatbot and diet assistant
-- **Cloudinary** — image hosting for uploaded reports
-- **Provider** for state management
-- flutter_local_notifications, pdf/printing, image_picker, file_picker round out the rest
+Flutter targets Android, iOS, Web, Windows, macOS, and Linux from one codebase. State management runs on Provider, with flutter_local_notifications, pdf/printing, image_picker, and file_picker handling the rest of the app-side work.
 
 ## Running it yourself
 
