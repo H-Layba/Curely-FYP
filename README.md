@@ -1,4 +1,10 @@
+<div align="center">
+
+<img src="assets/logo/logo.png" alt="Curely logo" width="120"/>
+
 # Curely
+
+Daily vitals tracking, medication reminders, and AI-assisted health management — built in Flutter.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -9,7 +15,35 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
+[**Download APK**](#) &nbsp;•&nbsp; [**Try the web build**](#)
+
+</div>
+
+---
+
 Curely is a Flutter app for chronic disease patients to manage their condition day to day — daily vitals tracking, medication reminders, AI-assisted diet guidance, a chatbot for quick questions, and automatic extraction of data from scanned medical reports.
+
+---
+
+## Demo
+
+![Curely walkthrough](docs/screenshots/demo.gif)
+
+*Log vitals → see them on the dashboard → get reminded when it's time for the next dose.*
+
+---
+
+## Screenshots
+
+| Dashboard | Daily Vitals Entry |
+|:---:|:---:|
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Daily Entry](docs/screenshots/daily_entry.png) |
+
+| AI Chatbot | Report Scan (OCR) |
+|:---:|:---:|
+| ![Chatbot](docs/screenshots/chatbot.png) | ![Report Scan](docs/screenshots/report_scan.png) |
+
+---
 
 ## What it does
 
@@ -25,9 +59,13 @@ Curely is a Flutter app for chronic disease patients to manage their condition d
 - **Profile & onboarding** — guided first-time setup and profile management
 - **Auth** — email/Google sign-in via Firebase Auth
 
+---
+
 ## Built with
 
 Flutter targets Android, iOS, Web, Windows, macOS, and Linux from one codebase. State management runs on Provider, with flutter_local_notifications, pdf/printing, image_picker, and file_picker handling the rest of the app-side work.
+
+---
 
 ## Running it yourself
 
@@ -66,6 +104,8 @@ Flutter targets Android, iOS, Web, Windows, macOS, and Linux from one codebase. 
 
 > Report scanning and Cloudinary deletes depend on the companion backend service — the app expects it at the `BASE_URL` set in `lib/reports/report.dart`. Point that at your own deployment if you're standing the backend up yourself.
 
+---
+
 ## Project Structure
 
 ```
@@ -83,6 +123,8 @@ lib/
 ├── settings/         # App settings
 └── utils/            # Shared utilities (incl. Cloudinary cleanup helper)
 ```
+
+---
 
 ## License
 
